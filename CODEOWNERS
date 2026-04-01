@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sjoly-fbx
+/src/backend/database.py      @sjoly-fbx
+/src/backend/routers/auth.py  @sjoly-fbx
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sjoly-fbx
